@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Donnerinoern
 - 👀 I’m interested in programming and computer science.
-- 🌱 I’m currently learning Java, JavaScript (+ TypeScript), PHP and C#.
+- 🌱 I’m currently learning Java, JavaScript (+ TypeScript), Ruby and C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
