@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Donnerinoern
-- 👀 I’m interested in programming and computer science. Languages I already know are: Java, JavaScript, Kotlin.
-- 🌱 I’m currently learning C#.
+- 👀 I’m interested in programming and computer science. Languages I already know are: Java, JavaScript, Kotlin, C#, Ruby.
+- 🌱 I’m currently learning Ruby on Rails.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
