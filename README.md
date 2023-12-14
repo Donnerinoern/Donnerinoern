@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Donnerinoern
+# About me:
+I’m ***Donnerinoern***, better known as **Donnan**. A Norwegian IT-student with ADHD. 
 - 👀 I’m interested in programming and computer science. Languages I already know are: Java, JavaScript, Kotlin, C#, Ruby.
 - 🌱 I’m currently learning Ruby on Rails.
 - 💞️ I’m looking to collaborate on ...
