@@ -7,7 +7,8 @@ I have experience with the following languages:
 - C#
 - Ruby
 - SQL
-- HTML/CSS (obviously)
+- HTML/CSS
+- Go
 
 and the following frameworks:
 - Ruby on Rails
@@ -18,7 +19,7 @@ and the following frameworks:
 
 I also have a fairly decent understanding of Linux and Linux-distributions.
 
-As of right now, my main focus is on learning lower-level languages with manual memory managment. C++ is on the agenda, and I'll follow up with either Rust or Zig. I haven't quite decided yet. I'm also planning on learning Go as a replacement for Java.
+As of right now, my main focus is on learning lower-level languages with manual memory managment. C++ is on the agenda, and I'll follow up with either Rust or Zig. I haven't quite decided yet.
 
 You can reach me on Discord (donnan) for now, and on mail in the near future...
 
