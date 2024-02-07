@@ -1,5 +1,5 @@
 # About me:
-I’m ***Donnerinoern***, better known as **Donnan**. A Norwegian IT-student with ADHD. I'll be done with my bachelor's degree spring 2024. Been using Linux as my main OS since fall 2021. Currently using NixOS and Alpine Linux.
+I’m ***Donnerinoern***, better known as **Donnan**. I'll be done with my bachelor's degree spring 2024. Been using Linux as my main OS since fall 2021. Currently using NixOS and Alpine Linux.
 I have experience with the following languages:
 - Java
 - JavaScript/TypeScript
