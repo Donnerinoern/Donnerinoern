@@ -20,7 +20,7 @@ and the following frameworks:
 
 I also have a fairly decent understanding of Linux and Linux-distributions.
 
-You can reach me on Discord (donnan) for now.
+You can reach me on Discord (donnan) and on e-mail: email@donnan.no
 
 <!---
 Donnerinoern/Donnerinoern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
